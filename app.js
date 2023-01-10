@@ -67,4 +67,3 @@ app.listen(process.env.PORT || "5000",function(){
     console.log("server has started");
 })
 
-// api key:fcfcdc857cf9b359c8ccb3bb8c5aa523-us10
